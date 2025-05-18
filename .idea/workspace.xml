@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde59e2b-c378-4d4b-8fc7-06245a5c2cbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai8_toanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai9_toanTuLogic_TienTo_HauTo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bai8_toanTu">
-    <configuration name="bai4_kieuDuLieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai4_kieuDuLieu" />
-      <module name="base-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.bai9_toanTuLogic_TienTo_HauTo">
     <configuration name="bai5_bien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai5_bien" />
       <module name="base-java" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bai9_toanTuLogic_TienTo_HauTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai9_toanTuLogic_TienTo_HauTo" />
+      <module name="base-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bai9_toanTuLogic_TienTo_HauTo" />
         <item itemvalue="Application.bai8_toanTu" />
         <item itemvalue="Application.bai7_cacPhepToan" />
         <item itemvalue="Application.bai6_epKieuDuLieu" />
         <item itemvalue="Application.bai5_bien" />
-        <item itemvalue="Application.bai4_kieuDuLieu" />
       </list>
     </recent_temporary>
   </component>
