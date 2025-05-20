@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde59e2b-c378-4d4b-8fc7-06245a5c2cbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai11_BT_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai11_BT_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bai11_BT_01">
+  <component name="RunManager" selected="Application.bai11_BT_02">
     <configuration name="bai10_tinhChuViDienTichHCN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai10_tinhChuViDienTichHCN" />
       <module name="base-java" />
@@ -50,15 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bai10_tinhChuViDienTichHinhTron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai10_tinhChuViDienTichHinhTron" />
+    <configuration name="bai11_BT_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai11_BT_01" />
       <module name="base-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bai11_BT_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai11_BT_01" />
+    <configuration name="bai11_BT_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai11_BT_02" />
       <module name="base-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bai11_BT_02" />
         <item itemvalue="Application.bai11_BT_01" />
         <item itemvalue="Application.bai11_kiemTraNamNhuan" />
         <item itemvalue="Application.bai11_ifElse" />
         <item itemvalue="Application.bai10_tinhChuViDienTichHCN" />
-        <item itemvalue="Application.bai10_tinhChuViDienTichHinhTron" />
       </list>
     </recent_temporary>
   </component>
